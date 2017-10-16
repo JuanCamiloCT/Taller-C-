@@ -1,0 +1,22 @@
+c:\users\papote\documents\visual studio 2015\Projects\Tallersito\Tallersito\bin\Debug\Tallersito.exe.config
+c:\users\papote\documents\visual studio 2015\Projects\Tallersito\Tallersito\bin\Debug\Tallersito.exe
+c:\users\papote\documents\visual studio 2015\Projects\Tallersito\Tallersito\bin\Debug\Tallersito.pdb
+c:\users\papote\documents\visual studio 2015\Projects\Tallersito\Tallersito\obj\Debug\Tallersito.csprojResolveAssemblyReference.cache
+c:\users\papote\documents\visual studio 2015\Projects\Tallersito\Tallersito\obj\Debug\Tallersito.Admin.resources
+c:\users\papote\documents\visual studio 2015\Projects\Tallersito\Tallersito\obj\Debug\Tallersito.Login.resources
+c:\users\papote\documents\visual studio 2015\Projects\Tallersito\Tallersito\obj\Debug\Tallersito.Mesero.resources
+c:\users\papote\documents\visual studio 2015\Projects\Tallersito\Tallersito\obj\Debug\Tallersito.Properties.Resources.resources
+c:\users\papote\documents\visual studio 2015\Projects\Tallersito\Tallersito\obj\Debug\Tallersito.csproj.GenerateResource.Cache
+c:\users\papote\documents\visual studio 2015\Projects\Tallersito\Tallersito\obj\Debug\Tallersito.exe
+c:\users\papote\documents\visual studio 2015\Projects\Tallersito\Tallersito\obj\Debug\Tallersito.pdb
+F:\C#\Taller c#\Tallersito\Tallersito\bin\Debug\Tallersito.exe.config
+F:\C#\Taller c#\Tallersito\Tallersito\obj\Debug\Tallersito.exe
+F:\C#\Taller c#\Tallersito\Tallersito\obj\Debug\Tallersito.pdb
+F:\C#\Taller c#\Tallersito\Tallersito\bin\Debug\Tallersito.exe
+F:\C#\Taller c#\Tallersito\Tallersito\bin\Debug\Tallersito.pdb
+F:\C#\Taller c#\Tallersito\Tallersito\obj\Debug\Tallersito.csprojResolveAssemblyReference.cache
+F:\C#\Taller c#\Tallersito\Tallersito\obj\Debug\Tallersito.Admin.resources
+F:\C#\Taller c#\Tallersito\Tallersito\obj\Debug\Tallersito.Login.resources
+F:\C#\Taller c#\Tallersito\Tallersito\obj\Debug\Tallersito.Mesero.resources
+F:\C#\Taller c#\Tallersito\Tallersito\obj\Debug\Tallersito.Properties.Resources.resources
+F:\C#\Taller c#\Tallersito\Tallersito\obj\Debug\Tallersito.csproj.GenerateResource.Cache

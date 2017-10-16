@@ -1,0 +1,92 @@
+create database BD_Tienda
+go
+use BD_Tienda
+go
+
+create table Acomodacion
+(
+Ubicacion varchar (20) primary key not null,
+Cantidad_sillas smallint not null,
+Cantidad_mesas smallint  not null,
+)
+create table Bebidas
+(
+ID_B char (10) primary key not null,
+Tipo varchar(20) not null,
+Marca varchar (20) not null,
+Precio smallmoney not null,
+)
+create table Platos
+(
+ID_P char (10) primary key not null,
+Plato varchar(20) not null,
+Valor smallmoney not null,
+)
+
+create table Ingredientes
+(
+ID_I char (10)primary key not null,
+Ingredientes varchar(20) not null,
+Valor smallmoney not null,
+ID_Plato char (10) not null,
+foreign key(ID_Plato)references Platos (ID_P)
+)
+
+
+create table Pedidos
+(
+Cedula char (10) primary key not null,
+Tipo_mesa varchar(20) not null,
+Cant_comensales smallint not null,
+Plato char (10) null,
+Ingrediente char (10)null,
+Bebida char (10) not null,
+Valor smallmoney not null,
+foreign key(Tipo_mesa)references Acomodacion (Ubicacion),
+foreign key(Plato)references Platos (ID_P),
+foreign key(Ingrediente)references Ingredientes (ID_I),
+foreign key(Bebida)references Bebidas (ID_B)
+)
+create table Facturas
+(
+Cedula char (10) not null,
+Nombre varchar(20) not null,
+Valor_pedido char (15) not null,
+IVA smallint not null,
+Valor_propina smallint null,
+Valor_total smallint not null,
+foreign key(Cedula)references Pedidos (Cedula)
+)
+
+
+
+
+insert into Acomodacion (Ubicacion,Cantidad_sillas,Cantidad_mesas)
+values ('Pasillo',2,5)
+insert into Acomodacion (Ubicacion,Cantidad_sillas,Cantidad_mesas)
+values ('Balcon',6,4)
+insert into Acomodacion (Ubicacion,Cantidad_sillas,Cantidad_mesas)
+values ('Central',4,6)
+
+insert into Bebidas (ID_B,Tipo,Marca,Precio)
+values ('1','Jugo','Hit',1500)
+insert into Bebidas (ID_B,Tipo,Marca,Precio)
+values ('2','Gaseosa','Pepsi',2000)
+insert into Bebidas (ID_B,Tipo,Marca,Precio)
+values ('3','Malteada','Milo',1000)
+
+insert into Platos(ID_P,Plato,Valor)
+values ('1','Salchipapas','3000')
+insert into Platos(ID_P,Plato,Valor)
+values ('2','Bandeja Paisa','10000')
+
+insert into Ingredientes(ID_I,Ingredientes,Valor,ID_Plato)
+values ('1','Papas',1000,'1')
+insert into Ingredientes(ID_I,Ingredientes,Valor,ID_Plato)
+values ('2','Salchichas',2000,'1')
+insert into Ingredientes(ID_I,Ingredientes,Valor,ID_Plato)
+values ('3','Frijoes',5000,'2')
+insert into Ingredientes(ID_I,Ingredientes,Valor,ID_Plato)
+values ('4','Arroz',3000,'2')
+insert into Ingredientes(ID_I,Ingredientes,Valor,ID_Plato)
+values ('5','Chicharron',2000,'2')

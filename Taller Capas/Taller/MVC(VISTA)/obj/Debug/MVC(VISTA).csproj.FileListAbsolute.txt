@@ -1,0 +1,16 @@
+c:\users\papote\documents\visual studio 2015\Projects\MVC(VISTA)\MVC(VISTA)\bin\Debug\MVC(VISTA).exe.config
+c:\users\papote\documents\visual studio 2015\Projects\MVC(VISTA)\MVC(VISTA)\obj\Debug\MVC(VISTA).csprojResolveAssemblyReference.cache
+c:\users\papote\documents\visual studio 2015\Projects\MVC(VISTA)\MVC(VISTA)\obj\Debug\MVC_VISTA_.Form1.resources
+c:\users\papote\documents\visual studio 2015\Projects\MVC(VISTA)\MVC(VISTA)\obj\Debug\MVC_VISTA_.Properties.Resources.resources
+c:\users\papote\documents\visual studio 2015\Projects\MVC(VISTA)\MVC(VISTA)\obj\Debug\MVC(VISTA).csproj.GenerateResource.Cache
+c:\users\papote\documents\visual studio 2015\Projects\MVC(VISTA)\MVC(VISTA)\bin\Debug\MVC(VISTA).exe
+c:\users\papote\documents\visual studio 2015\Projects\MVC(VISTA)\MVC(VISTA)\bin\Debug\MVC(VISTA).pdb
+c:\users\papote\documents\visual studio 2015\Projects\MVC(VISTA)\MVC(VISTA)\bin\Debug\Controlador.dll
+c:\users\papote\documents\visual studio 2015\Projects\MVC(VISTA)\MVC(VISTA)\bin\Debug\Modelo.dll
+c:\users\papote\documents\visual studio 2015\Projects\MVC(VISTA)\MVC(VISTA)\bin\Debug\Controlador.pdb
+c:\users\papote\documents\visual studio 2015\Projects\MVC(VISTA)\MVC(VISTA)\bin\Debug\Modelo.pdb
+c:\users\papote\documents\visual studio 2015\Projects\MVC(VISTA)\MVC(VISTA)\obj\Debug\MVC(VISTA).exe
+c:\users\papote\documents\visual studio 2015\Projects\MVC(VISTA)\MVC(VISTA)\obj\Debug\MVC(VISTA).pdb
+F:\C#\Taller Capas\Taller\MVC(VISTA)\bin\Debug\MVC(VISTA).exe.config
+F:\C#\Taller Capas\Taller\MVC(VISTA)\obj\Debug\MVC(VISTA).exe
+F:\C#\Taller Capas\Taller\MVC(VISTA)\obj\Debug\MVC(VISTA).pdb

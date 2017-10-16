@@ -1,0 +1,5 @@
+c:\users\papote\documents\visual studio 2015\Projects\MVC(VISTA)\Modelo\bin\Debug\Modelo.dll
+c:\users\papote\documents\visual studio 2015\Projects\MVC(VISTA)\Modelo\bin\Debug\Modelo.pdb
+c:\users\papote\documents\visual studio 2015\Projects\MVC(VISTA)\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+c:\users\papote\documents\visual studio 2015\Projects\MVC(VISTA)\Modelo\obj\Debug\Modelo.dll
+c:\users\papote\documents\visual studio 2015\Projects\MVC(VISTA)\Modelo\obj\Debug\Modelo.pdb

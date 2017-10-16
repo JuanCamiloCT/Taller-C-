@@ -1,0 +1,7 @@
+c:\users\papote\documents\visual studio 2015\Projects\MVC(VISTA)\Controlador\obj\Debug\Controlador.csprojResolveAssemblyReference.cache
+c:\users\papote\documents\visual studio 2015\Projects\MVC(VISTA)\Controlador\bin\Debug\Controlador.dll
+c:\users\papote\documents\visual studio 2015\Projects\MVC(VISTA)\Controlador\bin\Debug\Controlador.pdb
+c:\users\papote\documents\visual studio 2015\Projects\MVC(VISTA)\Controlador\bin\Debug\Modelo.dll
+c:\users\papote\documents\visual studio 2015\Projects\MVC(VISTA)\Controlador\bin\Debug\Modelo.pdb
+c:\users\papote\documents\visual studio 2015\Projects\MVC(VISTA)\Controlador\obj\Debug\Controlador.dll
+c:\users\papote\documents\visual studio 2015\Projects\MVC(VISTA)\Controlador\obj\Debug\Controlador.pdb

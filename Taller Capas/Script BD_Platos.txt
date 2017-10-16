@@ -1,0 +1,32 @@
+Create database BD_Platos
+go
+use BD_Platos 
+go
+
+Create table Platos
+(
+ID_P int not null,
+Plato varchar (20) not null,
+Valor varchar (20) not null,
+)
+go
+CREATE PROCEDURE SPContacto
+@opc int,
+@ID_P int =  null,
+@Plato varchar (20) = null,
+@Valor varchar (20) = null
+
+AS
+
+if @opc = 1
+begin
+select * from Platos
+end
+
+if @opc = 2
+begin
+Insert into Platos (ID_P,Plato,Valor)
+values (@ID_P,@Plato,@Valor)
+end
+
+select * from Platos
